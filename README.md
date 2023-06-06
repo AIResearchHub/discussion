@@ -2,10 +2,20 @@
 
 
 ## TODO
+ - [ ] Experiment - Longformer @Yuetian
  - [ ] Combine Longformer with XL
  - [ ] Block Recurrent Transformer from scratch
+ - [ ] Modify ReplayBuffer for any recurrent states
  - [ ] Finish Evaluation for Gallery (Perplexity etc...)
- - [ ] Experiment - Longformer @Yuetian
+ - [ ] Finish Recurrent Training Trainer for any transformer
+ - [ ] Upgrade DDPG to TD3
+ - [ ] Include stock indicators and time into model inputs (Volume, earnings etc...)
+
+## Notes
+
+ - Transformer XL states can't fit into ReplayBuffer
+ - Block Recurrent Transformer states can only fit if seqlen is <50
+ - ReplayBuffer can only save states per block not per timestep
 
 ## Resources
 
