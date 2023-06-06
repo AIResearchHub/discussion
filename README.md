@@ -38,7 +38,7 @@
 
 ### Repo
 
- [![Readme Card](https://github.com/augustwester/transformer-xl)](https://github.com/augustwester/transformer-xl)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=augustwester&repo=transformer-xl)](https://github.com/augustwester/transformer-xl)
 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucidrains&repo=block-recurrent-transformer-pytorch)](https://github.com/lucidrains/block-recurrent-transformer-pytorch)
  
