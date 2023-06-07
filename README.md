@@ -3,12 +3,14 @@
 
 ## TODO
  - [ ] Experiment - Longformer @Yuetian
- - [ ] Combine Longformer with XL
- - [ ] Block Recurrent Transformer from scratch
+ 
+ - [ ] Combine Longformer with XL (code needs review)
+ - [ ] Upgrade DDPG to TD3 (code needs review)
+ - [ ] Block Recurrent Transformer from scratch (code needs review)
+ 
  - [ ] Modify ReplayBuffer for any recurrent states
- - [ ] Finish Evaluation for Gallery (Perplexity etc...)
+ - [ ] Finish BERT Evaluation for Gallery (Perplexity etc...)
  - [ ] Finish Recurrent Training Trainer for any transformer
- - [ ] Upgrade DDPG to TD3
  - [ ] Include stock indicators and time into model inputs (Volume, earnings etc...)
 
 ## Notes
