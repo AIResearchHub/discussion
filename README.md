@@ -40,6 +40,11 @@
  - arXiv Paper: https://arxiv.org/abs/2203.07852
 
 
+### Twin Delayed DDPG
+ - arXiv Paper: https://arxiv.org/pdf/1802.09477.pdf
+ - OpenAI Spinning Up: https://spinningup.openai.com/en/latest/algorithms/td3.html
+
+
 ### Other
  - One Write-Head is All You Need: https://arxiv.org/abs/1911.02150
  - Flash Attention: https://arxiv.org/abs/2205.14135
