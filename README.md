@@ -8,6 +8,7 @@
  - [ ] Upgrade DDPG to TD3 (code needs review)
  - [ ] Block Recurrent Transformer from scratch (code needs review)
  
+ - [ ] Integrate Flash Attention
  - [ ] Modify ReplayBuffer for any recurrent states
  - [ ] Finish BERT Evaluation for Gallery (Perplexity etc...)
  - [ ] Finish Recurrent Training Trainer for any transformer
