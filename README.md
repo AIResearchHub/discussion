@@ -52,7 +52,8 @@
  - One Write-Head is All You Need: https://arxiv.org/abs/1911.02150
  - Flash Attention: https://arxiv.org/abs/2205.14135
  - Diagonal State Space Models for long sequences: https://arxiv.org/abs/2206.11893
- - 
+ - SCROLLS: https://arxiv.org/pdf/2201.03533.pdf
+ - COLT5: https://arxiv.org/pdf/2303.09752.pdf
 
 ### Repo
 
