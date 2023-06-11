@@ -7,8 +7,8 @@
  - [ ] Combine Longformer with XL (code needs review)
  - [ ] Upgrade DDPG to TD3 (code needs review)
  - [ ] Block Recurrent Transformer from scratch (code needs review)
+ - [ ] Unlimiformer from scratch
  
- - [ ] Integrate Flash Attention
  - [ ] Modify ReplayBuffer for any recurrent states
  - [ ] Finish BERT Evaluation for Gallery (Perplexity etc...)
  - [ ] Finish Recurrent Training Trainer for any transformer
@@ -23,9 +23,13 @@
 ## Resources
 
 
+### Unlimiformer
+ - arXiv Paper: https://arxiv.org/abs/2305.01625
+
+
 ### TransformerXL
  - arXiv Paper: https://arxiv.org/abs/1901.02860
- - 
+
 
 ### Longformer
  - arXiv Paper: https://arxiv.org/abs/2004.05150
@@ -54,8 +58,12 @@
  - Diagonal State Space Models for long sequences: https://arxiv.org/abs/2206.11893
  - SCROLLS: https://arxiv.org/pdf/2201.03533.pdf
  - COLT5: https://arxiv.org/pdf/2303.09752.pdf
+ - Huggingface Datasets API: https://github.com/huggingface/datasets
+ - Huggingface Evaluate API: https://github.com/huggingface/evaluate
 
 ### Repo
+
+ [![Readme Card](https://github.com/abertsch72/unlimiformer)](https://github.com/abertsch72/unlimiformer)
 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=augustwester&repo=transformer-xl)](https://github.com/augustwester/transformer-xl)
 
@@ -63,6 +71,4 @@
  
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=allenai&repo=longformer)](https://github.com/allenai/longformer)
 
-
-## Links
 
