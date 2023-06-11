@@ -63,7 +63,7 @@
 
 ### Repo
 
- [![Readme Card](https://github.com/abertsch72/unlimiformer)](https://github.com/abertsch72/unlimiformer)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abertsch72/unlimiformer)](https://github.com/abertsch72/unlimiformer)
 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=augustwester&repo=transformer-xl)](https://github.com/augustwester/transformer-xl)
 
