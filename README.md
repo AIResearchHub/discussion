@@ -60,6 +60,7 @@
  - COLT5: https://arxiv.org/pdf/2303.09752.pdf
  - Huggingface Datasets API: https://github.com/huggingface/datasets
  - Huggingface Evaluate API: https://github.com/huggingface/evaluate
+ - Sliding Encoder and Decoder (SLED): https://arxiv.org/pdf/2208.00748.pdf
 
 ### Repo
 
